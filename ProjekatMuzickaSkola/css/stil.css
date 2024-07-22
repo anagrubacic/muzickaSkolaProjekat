@@ -1,0 +1,15 @@
+/* Stil za naslov sekcije "Statistika sistema" */
+h2 {
+    color: rgba(255, 0, 0, 0.6);
+    margin-top: 20px;
+}
+
+.navbar-brand{
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+.page-header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: lightcoral;
+}
